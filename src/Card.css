@@ -1,0 +1,12 @@
+.btnn {
+    color: orange;
+    background-color: #2D2F38;
+    border-color: orange;
+    border-radius: 5px;
+    height: 40px;
+    font-size: larger;
+}
+
+#standard {
+    color: antiquewhite;
+}
