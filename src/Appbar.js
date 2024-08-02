@@ -27,7 +27,7 @@ const Headings=()=> {
               textDecoration: 'none',
             }}
           >
-            Waylytyx App
+            Waylytyx App!
           </Typography>
           </Toolbar>
           </Container>
